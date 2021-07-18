@@ -29,7 +29,7 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 ### Task 1: Project Setup
 
 #### Repo Setup
-* [ ] Fork and clone this repository.
+* [x] Fork and clone this repository.
 * [ ] Create a new working branch: git checkout -b `<firstName-lastName>`.
 * [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 * [ ] Push commits: git push origin `<firstName-lastName>`.
